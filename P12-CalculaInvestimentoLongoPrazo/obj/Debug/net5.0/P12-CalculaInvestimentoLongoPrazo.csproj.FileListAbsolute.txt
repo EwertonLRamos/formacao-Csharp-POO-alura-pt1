@@ -1,0 +1,15 @@
+C:\Users\Ewerton Lucas\source\repos\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.exe
+C:\Users\Ewerton Lucas\source\repos\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.deps.json
+C:\Users\Ewerton Lucas\source\repos\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.runtimeconfig.json
+C:\Users\Ewerton Lucas\source\repos\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.runtimeconfig.dev.json
+C:\Users\Ewerton Lucas\source\repos\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.dll
+C:\Users\Ewerton Lucas\source\repos\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\net5.0\ref\P12-CalculaInvestimentoLongoPrazo.dll
+C:\Users\Ewerton Lucas\source\repos\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.pdb
+C:\Users\Ewerton Lucas\source\repos\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ewerton Lucas\source\repos\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.AssemblyInfoInputs.cache
+C:\Users\Ewerton Lucas\source\repos\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.AssemblyInfo.cs
+C:\Users\Ewerton Lucas\source\repos\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\Ewerton Lucas\source\repos\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.dll
+C:\Users\Ewerton Lucas\source\repos\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\ref\P12-CalculaInvestimentoLongoPrazo.dll
+C:\Users\Ewerton Lucas\source\repos\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.pdb
+C:\Users\Ewerton Lucas\source\repos\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.genruntimeconfig.cache
